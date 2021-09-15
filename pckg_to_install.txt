@@ -1,0 +1,12 @@
+pip install pandas
+pip install mtplotlib
+pip install nltk
+
+-----------------
+js libraries :
+jQuery,ajax
+canvas js
+
+---------------
+bootstrap pour css
+
